@@ -33,3 +33,16 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+
+# VSCode
+.vscode/
+
+# Rider
+.idea/
+
+# .NET
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
